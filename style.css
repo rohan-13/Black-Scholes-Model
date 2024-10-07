@@ -1,0 +1,19 @@
+div[data-testid="stHorizontalBlock"] > div:first-of-type {
+    background-color: #90EE90;
+}
+
+div[data-testid="stHorizontalBlock"] > div:nth-of-type(2) {
+    background-color: red; /* Light blue */
+}
+
+.custom-text {
+    color: black;  /* Change this to your desired color */
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+
+
+
